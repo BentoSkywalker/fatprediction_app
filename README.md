@@ -6,4 +6,4 @@ Model created with helping of PycaretAutoml,sklearn and Kaggle dataset (https://
 
 Web application created by Streamlit and Deploying on Heroku platform.
 
-Link application : https://bodyfatprediction-app.herokuapp.com/
+:rocket::rocket: Link application : https://bodyfatprediction-app.herokuapp.com/
